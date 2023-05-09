@@ -1,0 +1,1 @@
+Esse projeto é um site com o intuito de ser meu portifólio
