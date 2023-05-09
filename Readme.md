@@ -1,1 +1,1 @@
-Esse projeto é um site com o intuito de ser meu portifólio
+Esse projeto é um site com o intuito de ser meu portifólio para visualizarem meus projetos e sobre mim.
